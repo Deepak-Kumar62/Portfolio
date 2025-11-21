@@ -1,6 +1,7 @@
 import "./portfolio.css"
 import Expense from "../../assets/expense-tracker.png"
 import DoctorAppointmentImage from "../../assets/doctor-appointment.png"
+import Lms from "../../assets/lms.png"
 
 import ProjectCard from "./ProjectCard"
 
@@ -10,6 +11,11 @@ const Portfolio = () => {
             project_image: DoctorAppointmentImage,
             project_title: "Doctor-Appointment_Booking-System",
             project_link: "https://doctor-appointment-booking-system3.netlify.app/"
+        },
+        {
+            project_image: Lms,
+            project_title: "LMS Portal",
+            project_link: "https://monitytrack.netlify.app/"
         },
         {
             project_image: Expense,
