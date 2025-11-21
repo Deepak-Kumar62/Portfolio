@@ -15,7 +15,7 @@ const Portfolio = () => {
         {
             project_image: Lms,
             project_title: "LMS Portal",
-            project_link: "https://monitytrack.netlify.app/"
+            project_link: "https://dk-lms.netlify.app/"
         },
         {
             project_image: Expense,
